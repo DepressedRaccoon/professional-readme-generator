@@ -37,6 +37,9 @@ To use this application, navigate to the directory where you cloned the reposito
 
 This will start the application and prompt you for information about your project. Follow the prompts and provide the necessary information to generate your README file.
 
+### Usage Video 
+[Untitled_ Apr 2, 2023 9_35 PM.webm](https://user-images.githubusercontent.com/118332995/229399073-ba6df4d5-5201-40c7-a5f7-2afd3d1087c5.webm)
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
