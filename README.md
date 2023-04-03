@@ -23,7 +23,7 @@ To install this application, first clone the repository from GitHub:
 
 Then, navigate to the directory where you cloned the repository and install the required dependencies:
 
-    cd challenge-9 
+    cd <directory>  
     npm install
 
 
