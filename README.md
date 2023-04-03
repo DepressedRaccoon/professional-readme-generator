@@ -13,7 +13,6 @@ This is a command-line application that allows users to generate a professional 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [License](#license)
-- [Questions](#questions)
 
 ## Installation
 
